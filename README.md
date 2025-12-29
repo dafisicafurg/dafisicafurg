@@ -2,7 +2,11 @@
   <b>Oii, bem vindo ao perfil da Física ♡</b>
 </h1>
 
-<img src="https://github.com/dafisicafurg/dafisicafurg/blob/main/furg_logo.png?raw=true" width="15px"> Este repositório reúne materiais, anotações e resumos das disciplinas cursadas ao longo da graduação em Física na Universade Federal do Rio Grande (FURG). O objetivo é criar um acervo público e organizado para auxiliar outros estudantes no aprendizado.
+<img src="https://github.com/dafisicafurg/dafisicafurg/blob/main/furg_logo.png?raw=true" width="15px"> Este repositório reúne materiais, anotações e resumos das disciplinas cursadas ao longo da graduação em Física na Universade Federal do Rio Grande (FURG), **organizado pelo Diretório Acadêmico de Física**. O objetivo é criar um acervo público e organizado para auxiliar outros estudantes no aprendizado.
+
+<a href="https://imef.furg.br">
+  <img src="https://img.shields.io/badge/IMEF_FURG-003366?style=for-the-badge&logo=university&logoColor=white" width="130" />
+</a>
 
 ## Como utilizar
 
