@@ -29,10 +29,14 @@ Contribuições são bem vindas !! Você pode falar com nós do Diretório Acade
 <div align="center">
 <h1>Contatos e carrd</h1>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dafisicafurg@gmail.com)
-
-[![Blogger](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://sitedoblogaq)
-
-[![Carrd](https://img.shields.io/badge/Carrd-000000?style=for-the-badge&logo=carrd&logoColor=white)](https://carrdaq)
+<a href="mailto:dafisicafurg@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="85" />
+</a>
+<a href="https://colocarblogaq">
+  <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" width="100" />
+</a>
+<a href="https://colocarcarrdaq">
+  <img src="https://img.shields.io/badge/Carrd-000000?style=for-the-badge&logo=carrd&logoColor=white" width="100" />
+</a>
 
 </div>
