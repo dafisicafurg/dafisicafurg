@@ -2,7 +2,11 @@
   <b>Oii, bem vindo ao perfil da Física ♡</b>
 </h1>
 
-<img src="https://github.com/dafisicafurg/dafisicafurg/blob/main/furg_logo.png?raw=true" width="15px"> Este repositório reúne materiais, anotações e resumos das disciplinas cursadas ao longo da graduação em Física na Universade Federal do Rio Grande. O objetivo é criar um acervo público e organizado para auxiliar outros estudantes no aprendizado.
+<img src="https://github.com/dafisicafurg/dafisicafurg/blob/main/furg_logo.png?raw=true" width="16px"> Este repositório reúne materiais, anotações e resumos das disciplinas cursadas ao longo da graduação em Física na Universade Federal do Rio Grande. O objetivo é criar um acervo público e organizado para auxiliar outros estudantes no aprendizado.
+
+<p align="center">
+  <img src="https://github.com/dafisicafurg/dafisicafurg/blob/main/gif%20estrelinhas%20azuis.gif?raw=true" width="100%">
+</p>
 
 ## Como utilizar
 
@@ -22,10 +26,6 @@ Contribuições são bem vindas !! Você pode falar com nós do Diretório Acade
 4. Push para a Branch (`git push origin feature/NovaDisciplina`)
 5. Abra um Pull Request
 
-<p align="center">
-  <img src="https://github.com/dafisicafurg/dafisicafurg/blob/main/gif%20estrelinhas%20azuis.gif?raw=true" width="100%">
-</p>
-
 <div align="center">
 <h1>Contatos e carrd</h1>
 
@@ -33,7 +33,7 @@ Contribuições são bem vindas !! Você pode falar com nós do Diretório Acade
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="85" />
 </a>
 <a href="https://colocarblogaq">
-  <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" width="100" />
+  <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" width="85" />
 </a>
 <a href="https://colocarcarrdaq">
   <img src="https://img.shields.io/badge/Carrd-000000?style=for-the-badge&logo=carrd&logoColor=white" width="100" />
