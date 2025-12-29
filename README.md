@@ -4,10 +4,6 @@
 
 <img src="https://github.com/dafisicafurg/dafisicafurg/blob/main/furg_logo.png?raw=true" width="16px"> Este repositório reúne materiais, anotações e resumos das disciplinas cursadas ao longo da graduação em Física na Universade Federal do Rio Grande. O objetivo é criar um acervo público e organizado para auxiliar outros estudantes no aprendizado.
 
-<p align="center">
-  <img src="https://github.com/dafisicafurg/dafisicafurg/blob/main/gif%20estrelinhas%20azuis.gif?raw=true" width="100%">
-</p>
-
 ## Como utilizar
 
 **Para estudo**: Navegue pelas pastas das disciplinas 
@@ -30,7 +26,7 @@ Contribuições são bem vindas !! Você pode falar com nós do Diretório Acade
 <h1>Contatos e carrd</h1>
 
 <a href="mailto:dafisicafurg@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="85" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="90" />
 </a>
 <a href="https://colocarblogaq">
   <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" width="85" />
