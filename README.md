@@ -2,7 +2,7 @@
   <b>Oii, bem vindo ao perfil da Física ♡</b>
 </h1>
 
-<img src="https://github.com/dafisicafurg/dafisicafurg/blob/main/furg_logo.png?raw=true" width="15px"> Esta conta reúne materiais, anotações e resumos das disciplinas cursadas ao longo da graduação em Física na Universade Federal do Rio Grande (FURG), **organizado pelo Diretório Acadêmico de Física**. O objetivo é criar um acervo público e organizado para auxiliar outros estudantes no aprendizado.
+<img src="https://github.com/dafisicafurg/dafisicafurg/blob/main/furg_logo.png?raw=true" width="15px"> Esta conta reúne materiais, anotações e resumos das disciplinas cursadas ao longo da graduação em Física na Universade Federal do Rio Grande (FURG), **organizado pelo Diretório Acadêmico da Física César Lattes (DAF)**. O objetivo é criar um acervo público e organizado para auxiliar outros estudantes no aprendizado.
 
 <img src="https://github.com/dafisicafurg/dafisicafurg/blob/main/imef_logo.png?raw=true" width="26px">  Instituição: Instituto de Matemática, Estatísica e Física (IMEF) - FURG
 
