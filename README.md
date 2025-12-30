@@ -33,7 +33,7 @@ Contribuições são bem vindas !! Você pode falar com nós do Diretório Acade
 <a href="https://colocarblogaq">
   <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" width="85" />
 </a>
-<a href="https://colocarcarrdaq">
+<a href="https://dafisicafurg.carrd.co/#">
   <img src="https://img.shields.io/badge/Carrd-000000?style=for-the-badge&logo=carrd&logoColor=white" width="95" />
 </a>
 
